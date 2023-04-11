@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "mouse",
+      "price": "50",
+      "img": "product2.jpg",
+      "like": 0,
+      "quanity": 0,
+      "description": "rgb",
+      "quantity": "120",
+      "id": 3
+    },
+    {
+      "name": "casque",
+      "price": "120",
+      "img": "casque.jpg",
+      "like": 0,
+      "quanity": 0,
+      "description": "RBG",
+      "quantity": "120",
+      "id": 4
+    }
+  ]
+}
